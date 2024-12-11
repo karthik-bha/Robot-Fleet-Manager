@@ -1,0 +1,15 @@
+# Ignore the virtual environment directory
+backend/env/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore any other temporary files that might get generated
+*.log
+*.bak
+*.swp
+
+# Ignore environment configuration files if you don't want them in version control
+*.env
